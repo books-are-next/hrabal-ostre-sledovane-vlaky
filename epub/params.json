@@ -1,1 +1,284 @@
-{}
+{
+  "params": {
+    "metadata": {
+      "title": "Ostře sledované vlaky",
+      "identifier": "urn:uuid:1a03e83e-1f69-40a7-a66e-5c5bacdd18b0",
+      "author": "Bohumil Hrabal",
+      "publisher": "Městská knihovna v Praze",
+      "modified": "2021-09-06T08:31:04.645Z",
+      "languageCode": "cs"
+    },
+    "elements": {
+      "title": "",
+      "subtitle": "",
+      "h2": "",
+      "h3": "",
+      "h4": "",
+      "hr": "",
+      "hrBefore": "",
+      "hrAfter": "",
+      "br": "",
+      "brBefore": "",
+      "brAfter": "MLP-text-bez1radku\nMLP-text-bez1radku--0-12\nMLP-text-bez1radku--12-0",
+      "blockquote": "",
+      "figure": "",
+      "em": "",
+      "strong": "",
+      "remove": "",
+      "ignore": ""
+    },
+    "structure": [
+      {
+        "filename": "ostre_sledovane_vlaky_001.md",
+        "xhtml": "ostre_sledovane_vlaky_001.xhtml",
+        "id": 0,
+        "role": "break",
+        "numberedChildren": false,
+        "inToc": true,
+        "children": []
+      },
+      {
+        "filename": "ostre_sledovane_vlaky_002.md",
+        "xhtml": "ostre_sledovane_vlaky_002.xhtml",
+        "id": 1,
+        "role": "chapter",
+        "numberedChildren": false,
+        "inToc": true,
+        "children": []
+      },
+      {
+        "filename": "ostre_sledovane_vlaky_003.md",
+        "xhtml": "ostre_sledovane_vlaky_003.xhtml",
+        "id": 2,
+        "role": "chapter",
+        "numberedChildren": false,
+        "inToc": true,
+        "children": []
+      },
+      {
+        "filename": "ostre_sledovane_vlaky_004.md",
+        "xhtml": "ostre_sledovane_vlaky_004.xhtml",
+        "id": 3,
+        "role": "colophon",
+        "numberedChildren": false,
+        "inToc": true,
+        "children": []
+      },
+      {
+        "filename": "ostre_sledovane_vlaky_005.md",
+        "xhtml": "ostre_sledovane_vlaky_005.xhtml",
+        "id": 4,
+        "role": "chapter",
+        "numberedChildren": false,
+        "inToc": true,
+        "children": []
+      },
+      {
+        "filename": "ostre_sledovane_vlaky_006.md",
+        "xhtml": "ostre_sledovane_vlaky_006.xhtml",
+        "id": 5,
+        "role": "chapter",
+        "numberedChildren": false,
+        "inToc": true,
+        "children": []
+      },
+      {
+        "filename": "ostre_sledovane_vlaky_007.md",
+        "xhtml": "ostre_sledovane_vlaky_007.xhtml",
+        "id": 6,
+        "role": "chapter",
+        "numberedChildren": false,
+        "inToc": true,
+        "children": []
+      },
+      {
+        "filename": "ostre_sledovane_vlaky_008.md",
+        "xhtml": "ostre_sledovane_vlaky_008.xhtml",
+        "id": 7,
+        "role": "chapter",
+        "numberedChildren": false,
+        "inToc": true,
+        "children": []
+      },
+      {
+        "filename": "ostre_sledovane_vlaky_009.md",
+        "xhtml": "ostre_sledovane_vlaky_009.xhtml",
+        "id": 8,
+        "role": "chapter",
+        "numberedChildren": false,
+        "inToc": true,
+        "children": []
+      },
+      {
+        "filename": "ostre_sledovane_vlaky_010.md",
+        "xhtml": "ostre_sledovane_vlaky_010.xhtml",
+        "id": 9,
+        "role": "chapter",
+        "numberedChildren": false,
+        "inToc": true,
+        "children": []
+      },
+      {
+        "filename": "ostre_sledovane_vlaky_011.md",
+        "xhtml": "ostre_sledovane_vlaky_011.xhtml",
+        "id": 10,
+        "role": "colophon",
+        "numberedChildren": false,
+        "inToc": true,
+        "children": []
+      },
+      {
+        "filename": "ostre_sledovane_vlaky_012.md",
+        "xhtml": "ostre_sledovane_vlaky_012.xhtml",
+        "id": 11,
+        "role": "chapter",
+        "numberedChildren": false,
+        "inToc": true,
+        "children": []
+      }
+    ]
+  },
+  "epub": {
+    "metadata": {
+      "title": "Ostře sledované vlaky",
+      "identifier": "urn:uuid:1a03e83e-1f69-40a7-a66e-5c5bacdd18b0",
+      "author": "Bohumil Hrabal",
+      "publisher": "Městská knihovna v Praze",
+      "modified": "2021-09-06T08:31:04.645Z",
+      "languageCode": "cs"
+    },
+    "chapters": [
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "ostre_sledovane_vlaky_001.md",
+        "xhtml": "ostre_sledovane_vlaky_001.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "ostre_sledovane_vlaky_002.md",
+        "xhtml": "ostre_sledovane_vlaky_002.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "ostre_sledovane_vlaky_003.md",
+        "xhtml": "ostre_sledovane_vlaky_003.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "ostre_sledovane_vlaky_004.md",
+        "xhtml": "ostre_sledovane_vlaky_004.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "ostre_sledovane_vlaky_005.md",
+        "xhtml": "ostre_sledovane_vlaky_005.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "ostre_sledovane_vlaky_006.md",
+        "xhtml": "ostre_sledovane_vlaky_006.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "ostre_sledovane_vlaky_007.md",
+        "xhtml": "ostre_sledovane_vlaky_007.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "ostre_sledovane_vlaky_008.md",
+        "xhtml": "ostre_sledovane_vlaky_008.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "ostre_sledovane_vlaky_009.md",
+        "xhtml": "ostre_sledovane_vlaky_009.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "ostre_sledovane_vlaky_010.md",
+        "xhtml": "ostre_sledovane_vlaky_010.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "ostre_sledovane_vlaky_011.md",
+        "xhtml": "ostre_sledovane_vlaky_011.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "ostre_sledovane_vlaky_012.md",
+        "xhtml": "ostre_sledovane_vlaky_012.xhtml"
+      }
+    ],
+    "resources": [
+      {
+        "type": "application/x-dtbncx+xml",
+        "href": "OEBPS/toc.ncx"
+      },
+      {
+        "type": "text/css",
+        "href": "OEBPS/Styles/ostre_sled_idstyles.css"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/kocka.jpeg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/image001_fmt.jpeg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/image002_fmt.jpeg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/obalka_ostre_sledovane_fmt.jpeg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/upoutavka_eknihy_fmt.jpeg"
+      }
+    ],
+    "classes": [
+      "Hyperlink",
+      "MLP-citacni-str-rozdeleni",
+      "MLP-licence-hypertext",
+      "MLP-licence-obrazek",
+      "MLP-licence-paragraf",
+      "MLP-licence-text",
+      "MLP-obrazky",
+      "MLP-text",
+      "MLP-text-bez1radku",
+      "MLP-text-bez1radku--0-12",
+      "MLP-text-bez1radku--12-0",
+      "MLP-tiraz-autor-a-nazev",
+      "MLP-titulka-autor",
+      "MLP-titulka-nazev",
+      "char-style-override-1",
+      "char-style-override-2",
+      "frame-1",
+      "frame-2",
+      "frame-3",
+      "para-style-override-1",
+      "para-style-override-2",
+      "para-style-override-3"
+    ],
+    "github": {
+      "user": "books-are-next",
+      "repo": "hrabal-ostre-sledovane-vlaky"
+    },
+    "generatedAt": 1630917064880
+  }
+}
