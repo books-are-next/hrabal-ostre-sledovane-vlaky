@@ -1,7 +1,7 @@
 /* global self, caches, fetch */
 /* eslint-disable no-restricted-globals */
 
-const CACHE = 'cache-a213827';
+const CACHE = 'cache-de71412';
 
 self.addEventListener('install', e => {
   e.waitUntil(precache()).then(() => self.skipWaiting());
@@ -39,7 +39,7 @@ self.addEventListener('activate', event => {
 });
 
 function precache() {
-  return caches.open(CACHE).then(cache => cache.addAll(["./","./colophon.html","./favicon.png","./index.html","./manifest.json","./ostre_sledovane_vlaky_001.html","./ostre_sledovane_vlaky_002.html","./ostre_sledovane_vlaky_003.html","./ostre_sledovane_vlaky_005.html","./ostre_sledovane_vlaky_006.html","./ostre_sledovane_vlaky_007.html","./ostre_sledovane_vlaky_008.html","./ostre_sledovane_vlaky_009.html","./ostre_sledovane_vlaky_010.html","./ostre_sledovane_vlaky_012.html","./resources.html","./resources/image001_fmt.jpeg","./resources/image002_fmt.jpeg","./resources/index.xml","./resources/kocka.jpeg","./resources/obalka_ostre_sledovane_fmt.jpeg","./resources/upoutavka_eknihy_fmt.jpeg","./scripts/bundle.js","./style/style.min.css"]));
+  return caches.open(CACHE).then(cache => cache.addAll(["./","./colophon.html","./index.html","./favicon.png","./manifest.json","./ostre_sledovane_vlaky_001.html","./ostre_sledovane_vlaky_002.html","./ostre_sledovane_vlaky_003.html","./ostre_sledovane_vlaky_005.html","./ostre_sledovane_vlaky_006.html","./ostre_sledovane_vlaky_007.html","./ostre_sledovane_vlaky_008.html","./ostre_sledovane_vlaky_009.html","./ostre_sledovane_vlaky_010.html","./ostre_sledovane_vlaky_012.html","./resources.html","./scripts/bundle.js","./resources/image001_fmt.jpeg","./resources/image002_fmt.jpeg","./resources/index.xml","./resources/kocka.jpeg","./resources/obalka_ostre_sledovane_fmt.jpeg","./resources/upoutavka_eknihy_fmt.jpeg","./style/style.min.css"]));
 }
 
 self.addEventListener('fetch', e => {

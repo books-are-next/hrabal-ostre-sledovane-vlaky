@@ -1,14 +1,14 @@
 {
   "author": "Bohumil Hrabal",
-  "identifier": "hrabal-ostre-sledovane-vlaky-a213827",
+  "identifier": "hrabal-ostre-sledovane-vlaky-de71412",
   "languagecode": "cs",
   "modified": "2021-09-06T08:31:04.645Z",
   "publisher": "Městská knihovna v Praze",
   "title": "Ostře sledované vlaky",
-  "revision": "a213827",
+  "revision": "de71412",
   "generatedAt": {
-    "date": "Thu Sep 16 2021 09:38:08 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1631785088578
+    "date": "Thu Sep 16 2021 09:40:53 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1631785253290
   },
   "documents": [
     {
@@ -119,11 +119,11 @@
       ]
     },
     {
-      "title": "",
+      "title": "V dopravní kanceláři ...",
       "file": "ostre_sledovane_vlaky_006.html",
-      "words": 2559,
-      "chars": 15306,
-      "ideas": 50,
+      "words": 2563,
+      "chars": 15328,
+      "ideas": 51,
       "role": "chapter",
       "order": 1,
       "prev": "ostre_sledovane_vlaky_005.html",
@@ -132,7 +132,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "",
+          "name": "V dopravní kanceláři …",
           "id": "chunk1",
           "children": []
         }
@@ -251,14 +251,14 @@
   ],
   "totals": {
     "all": {
-      "words": 18725,
-      "chars": 109256,
-      "ideas": 335
+      "words": 18729,
+      "chars": 109278,
+      "ideas": 336
     },
     "chapters": {
-      "words": 18583,
-      "chars": 108310,
-      "ideas": 313
+      "words": 18587,
+      "chars": 108332,
+      "ideas": 314
     }
   }
 }
