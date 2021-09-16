@@ -1,7 +1,7 @@
 /* global self, caches, fetch */
 /* eslint-disable no-restricted-globals */
 
-const CACHE = 'cache-e7f85fe';
+const CACHE = 'cache-a213827';
 
 self.addEventListener('install', e => {
   e.waitUntil(precache()).then(() => self.skipWaiting());

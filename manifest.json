@@ -1,14 +1,14 @@
 {
   "author": "Bohumil Hrabal",
-  "identifier": "hrabal-ostre-sledovane-vlaky-e7f85fe",
+  "identifier": "hrabal-ostre-sledovane-vlaky-a213827",
   "languagecode": "cs",
   "modified": "2021-09-06T08:31:04.645Z",
   "publisher": "Městská knihovna v Praze",
   "title": "Ostře sledované vlaky",
-  "revision": "e7f85fe",
+  "revision": "a213827",
   "generatedAt": {
-    "date": "Thu Sep 16 2021 09:33:31 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1631784811246
+    "date": "Thu Sep 16 2021 09:38:08 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1631785088578
   },
   "documents": [
     {
@@ -99,11 +99,11 @@
       ]
     },
     {
-      "title": "",
+      "title": "Tenhleten rok, rok pětačtyřicet ...",
       "file": "ostre_sledovane_vlaky_005.html",
-      "words": 1956,
-      "chars": 11218,
-      "ideas": 5,
+      "words": 1961,
+      "chars": 11251,
+      "ideas": 6,
       "role": "chapter",
       "order": 0,
       "prev": null,
@@ -112,7 +112,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "",
+          "name": "Tenhleten rok, rok pětačtyřicet …",
           "id": "chunk1",
           "children": []
         }
@@ -251,14 +251,14 @@
   ],
   "totals": {
     "all": {
-      "words": 18720,
-      "chars": 109223,
-      "ideas": 334
+      "words": 18725,
+      "chars": 109256,
+      "ideas": 335
     },
     "chapters": {
-      "words": 18578,
-      "chars": 108277,
-      "ideas": 312
+      "words": 18583,
+      "chars": 108310,
+      "ideas": 313
     }
   }
 }
