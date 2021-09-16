@@ -1,0 +1,268 @@
+{
+  "author": "Bohumil Hrabal",
+  "identifier": "hrabal-ostre-sledovane-vlaky-fab56c5",
+  "languagecode": "cs",
+  "modified": "2021-09-06T08:31:04.645Z",
+  "publisher": "Městská knihovna v Praze",
+  "title": "Ostře sledované vlaky",
+  "revision": "fab56c5",
+  "generatedAt": {
+    "date": "Thu Sep 16 2021 09:20:20 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1631784020755
+  },
+  "documents": [
+    {
+      "title": "Tiráž",
+      "file": "colophon.html",
+      "words": 137,
+      "chars": 912,
+      "ideas": 19,
+      "role": "colophon",
+      "order": null,
+      "next": "ostre_sledovane_vlaky_001.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Tiráž",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "",
+      "file": "index.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "index",
+      "order": null,
+      "next": "ostre_sledovane_vlaky_001.html",
+      "toc": []
+    },
+    {
+      "title": "",
+      "file": "ostre_sledovane_vlaky_001.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 0,
+      "prev": null,
+      "next": "ostre_sledovane_vlaky_002.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "",
+      "file": "ostre_sledovane_vlaky_002.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 1,
+      "prev": "ostre_sledovane_vlaky_001.html",
+      "next": "ostre_sledovane_vlaky_003.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "",
+      "file": "ostre_sledovane_vlaky_003.html",
+      "words": 5,
+      "chars": 34,
+      "ideas": 3,
+      "role": "chapter",
+      "order": 2,
+      "prev": "ostre_sledovane_vlaky_002.html",
+      "next": "ostre_sledovane_vlaky_005.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "",
+      "file": "ostre_sledovane_vlaky_005.html",
+      "words": 1956,
+      "chars": 11218,
+      "ideas": 5,
+      "role": "chapter",
+      "order": 3,
+      "prev": "ostre_sledovane_vlaky_003.html",
+      "next": "ostre_sledovane_vlaky_006.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "",
+      "file": "ostre_sledovane_vlaky_006.html",
+      "words": 2559,
+      "chars": 15306,
+      "ideas": 50,
+      "role": "chapter",
+      "order": 4,
+      "prev": "ostre_sledovane_vlaky_005.html",
+      "next": "ostre_sledovane_vlaky_007.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "",
+      "file": "ostre_sledovane_vlaky_007.html",
+      "words": 2752,
+      "chars": 15585,
+      "ideas": 30,
+      "role": "chapter",
+      "order": 5,
+      "prev": "ostre_sledovane_vlaky_006.html",
+      "next": "ostre_sledovane_vlaky_008.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "",
+      "file": "ostre_sledovane_vlaky_008.html",
+      "words": 4098,
+      "chars": 24905,
+      "ideas": 104,
+      "role": "chapter",
+      "order": 6,
+      "prev": "ostre_sledovane_vlaky_007.html",
+      "next": "ostre_sledovane_vlaky_009.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "",
+      "file": "ostre_sledovane_vlaky_009.html",
+      "words": 3842,
+      "chars": 22247,
+      "ideas": 86,
+      "role": "chapter",
+      "order": 7,
+      "prev": "ostre_sledovane_vlaky_008.html",
+      "next": "ostre_sledovane_vlaky_010.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "",
+      "file": "ostre_sledovane_vlaky_010.html",
+      "words": 3371,
+      "chars": 19016,
+      "ideas": 37,
+      "role": "chapter",
+      "order": 8,
+      "prev": "ostre_sledovane_vlaky_009.html",
+      "next": "ostre_sledovane_vlaky_012.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "",
+      "file": "ostre_sledovane_vlaky_012.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 9,
+      "prev": "ostre_sledovane_vlaky_010.html",
+      "next": null,
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "",
+      "file": "resources.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "other",
+      "order": null,
+      "next": "ostre_sledovane_vlaky_001.html",
+      "toc": []
+    }
+  ],
+  "totals": {
+    "all": {
+      "words": 18720,
+      "chars": 109223,
+      "ideas": 334
+    },
+    "chapters": {
+      "words": 18583,
+      "chars": 108311,
+      "ideas": 315
+    }
+  }
+}
