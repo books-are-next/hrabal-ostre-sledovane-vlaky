@@ -1,14 +1,14 @@
 {
   "author": "Bohumil Hrabal",
-  "identifier": "hrabal-ostre-sledovane-vlaky-de71412",
+  "identifier": "hrabal-ostre-sledovane-vlaky-e95c21e",
   "languagecode": "cs",
   "modified": "2021-09-06T08:31:04.645Z",
   "publisher": "Městská knihovna v Praze",
   "title": "Ostře sledované vlaky",
-  "revision": "de71412",
+  "revision": "e95c21e",
   "generatedAt": {
-    "date": "Thu Sep 16 2021 09:40:53 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1631785253290
+    "date": "Thu Sep 16 2021 09:46:21 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1631785581428
   },
   "documents": [
     {
@@ -139,11 +139,11 @@
       ]
     },
     {
-      "title": "",
+      "title": "V bloku zarachotilo ...",
       "file": "ostre_sledovane_vlaky_007.html",
-      "words": 2752,
-      "chars": 15585,
-      "ideas": 30,
+      "words": 2756,
+      "chars": 15606,
+      "ideas": 31,
       "role": "chapter",
       "order": 2,
       "prev": "ostre_sledovane_vlaky_006.html",
@@ -152,18 +152,18 @@
         {
           "index": 0,
           "level": 1,
-          "name": "",
+          "name": "V bloku zarachotilo …",
           "id": "chunk1",
           "children": []
         }
       ]
     },
     {
-      "title": "",
+      "title": "Podlezl jsem závory ...",
       "file": "ostre_sledovane_vlaky_008.html",
-      "words": 4098,
-      "chars": 24905,
-      "ideas": 104,
+      "words": 4102,
+      "chars": 24926,
+      "ideas": 105,
       "role": "chapter",
       "order": 3,
       "prev": "ostre_sledovane_vlaky_007.html",
@@ -172,18 +172,18 @@
         {
           "index": 0,
           "level": 1,
-          "name": "",
+          "name": "Podlezl jsem závory …",
           "id": "chunk1",
           "children": []
         }
       ]
     },
     {
-      "title": "",
+      "title": "Ze zámku přišla zpráva ...",
       "file": "ostre_sledovane_vlaky_009.html",
-      "words": 3842,
-      "chars": 22247,
-      "ideas": 86,
+      "words": 3847,
+      "chars": 22271,
+      "ideas": 87,
       "role": "chapter",
       "order": 4,
       "prev": "ostre_sledovane_vlaky_008.html",
@@ -192,18 +192,18 @@
         {
           "index": 0,
           "level": 1,
-          "name": "",
+          "name": "Ze zámku přišla zpráva …",
           "id": "chunk1",
           "children": []
         }
       ]
     },
     {
-      "title": "",
+      "title": "Výpravčí Hubička ...",
       "file": "ostre_sledovane_vlaky_010.html",
-      "words": 3371,
-      "chars": 19016,
-      "ideas": 37,
+      "words": 3374,
+      "chars": 19034,
+      "ideas": 38,
       "role": "chapter",
       "order": 5,
       "prev": "ostre_sledovane_vlaky_009.html",
@@ -212,7 +212,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "",
+          "name": "Výpravčí Hubička …",
           "id": "chunk1",
           "children": []
         }
@@ -251,14 +251,14 @@
   ],
   "totals": {
     "all": {
-      "words": 18729,
-      "chars": 109278,
-      "ideas": 336
+      "words": 18745,
+      "chars": 109362,
+      "ideas": 340
     },
     "chapters": {
-      "words": 18587,
-      "chars": 108332,
-      "ideas": 314
+      "words": 18603,
+      "chars": 108416,
+      "ideas": 318
     }
   }
 }
