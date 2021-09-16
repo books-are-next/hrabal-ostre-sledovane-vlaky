@@ -20,7 +20,19 @@ chapters:
   - ostre_sledovane_vlaky_009.html
   - ostre_sledovane_vlaky_010.html
   - ostre_sledovane_vlaky_012.html
-tocBase: []
+tocBase:
+  - link: ostre_sledovane_vlaky_005.html
+    title: Tenhleten rok, rok pětačtyřicet ...
+  - link: ostre_sledovane_vlaky_006.html
+    title: V dopravní kanceláři ...
+  - link: ostre_sledovane_vlaky_007.html
+    title: V bloku zarachotilo ...
+  - link: ostre_sledovane_vlaky_008.html
+    title: Podlezl jsem závory ...
+  - link: ostre_sledovane_vlaky_009.html
+    title: Ze zámku přišla zpráva ...
+  - link: ostre_sledovane_vlaky_010.html
+    title: Výpravčí Hubička ...
 static:
   - style
   - scripts
