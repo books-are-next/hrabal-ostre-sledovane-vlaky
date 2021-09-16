@@ -1,5 +1,5 @@
 ---
-{}
+title: Ze zámku přišla zpráva ...
 ---
 
   
