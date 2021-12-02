@@ -1,5 +1,5 @@
 ---
-title: Tenhleten rok, rok pětačtyřicet ...
+{}
 ---
 
   
