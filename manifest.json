@@ -1,264 +1,229 @@
 {
   "author": "Bohumil Hrabal",
-  "identifier": "hrabal-ostre-sledovane-vlaky-fc25ca5",
+  "edition": "beletrie",
+  "identifier": "hrabal-ostre-sledovane-vlaky-cd8391a",
   "languagecode": "cs",
   "modified": "2021-09-06T08:31:04.645Z",
   "publisher": "Městská knihovna v Praze",
+  "publishershort": "mkp",
   "title": "Ostře sledované vlaky",
-  "revision": "fc25ca5",
+  "revision": "cd8391a",
   "generatedAt": {
-    "date": "Wed Dec 01 2021 17:06:28 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1638378388403
+    "date": "Thu Dec 02 2021 10:22:26 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1638440546843
   },
   "documents": [
     {
-      "title": "Tiráž",
-      "file": "colophon.html",
-      "words": 137,
-      "chars": 912,
-      "ideas": 19,
-      "role": "colophon",
-      "order": null,
-      "next": "ostre_sledovane_vlaky_005.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": "Tiráž",
-          "id": "chunk1",
-          "children": []
-        }
-      ]
-    },
-    {
-      "title": "",
-      "file": "index.html",
-      "words": 0,
-      "chars": 0,
-      "ideas": 0,
-      "role": "index",
-      "order": null,
-      "next": "ostre_sledovane_vlaky_005.html",
-      "toc": []
-    },
-    {
-      "title": "",
-      "file": "ostre_sledovane_vlaky_001.html",
-      "words": 0,
-      "chars": 0,
-      "ideas": 0,
-      "role": "other",
-      "order": null,
-      "next": "ostre_sledovane_vlaky_005.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": "",
-          "id": "chunk1",
-          "children": []
-        }
-      ]
-    },
-    {
-      "title": "",
+      "title": "Ostře sledované vlaky",
       "file": "ostre_sledovane_vlaky_002.html",
       "words": 0,
       "chars": 0,
       "ideas": 0,
-      "role": "other",
-      "order": null,
-      "next": "ostre_sledovane_vlaky_005.html",
+      "role": "chapter",
+      "order": 0,
+      "prev": null,
+      "next": "ostre_sledovane_vlaky_003.html",
       "toc": [
         {
           "index": 0,
           "level": 1,
-          "name": "",
-          "id": "chunk1",
+          "name": null,
+          "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "",
+      "title": "Ostře sledované vlaky",
       "file": "ostre_sledovane_vlaky_003.html",
       "words": 5,
       "chars": 34,
       "ideas": 3,
-      "role": "other",
-      "order": null,
+      "role": "chapter",
+      "order": 1,
+      "prev": "ostre_sledovane_vlaky_002.html",
       "next": "ostre_sledovane_vlaky_005.html",
       "toc": [
         {
           "index": 0,
           "level": 1,
-          "name": "",
-          "id": "chunk1",
+          "name": null,
+          "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Tenhleten rok, rok pětačtyřicet ...",
+      "title": "Ostře sledované vlaky",
       "file": "ostre_sledovane_vlaky_005.html",
-      "words": 1961,
-      "chars": 11251,
-      "ideas": 6,
+      "words": 1956,
+      "chars": 11218,
+      "ideas": 5,
       "role": "chapter",
-      "order": 0,
-      "prev": null,
+      "order": 2,
+      "prev": "ostre_sledovane_vlaky_003.html",
       "next": "ostre_sledovane_vlaky_006.html",
       "toc": [
         {
           "index": 0,
           "level": 1,
-          "name": "Tenhleten rok, rok pětačtyřicet …",
-          "id": "chunk1",
+          "name": null,
+          "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "V dopravní kanceláři ...",
+      "title": "Ostře sledované vlaky",
       "file": "ostre_sledovane_vlaky_006.html",
-      "words": 2563,
-      "chars": 15328,
-      "ideas": 51,
+      "words": 2559,
+      "chars": 15306,
+      "ideas": 50,
       "role": "chapter",
-      "order": 1,
+      "order": 3,
       "prev": "ostre_sledovane_vlaky_005.html",
       "next": "ostre_sledovane_vlaky_007.html",
       "toc": [
         {
           "index": 0,
           "level": 1,
-          "name": "V dopravní kanceláři …",
-          "id": "chunk1",
+          "name": null,
+          "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "V bloku zarachotilo ...",
+      "title": "Ostře sledované vlaky",
       "file": "ostre_sledovane_vlaky_007.html",
-      "words": 2756,
-      "chars": 15606,
-      "ideas": 31,
+      "words": 2752,
+      "chars": 15585,
+      "ideas": 30,
       "role": "chapter",
-      "order": 2,
+      "order": 4,
       "prev": "ostre_sledovane_vlaky_006.html",
       "next": "ostre_sledovane_vlaky_008.html",
       "toc": [
         {
           "index": 0,
           "level": 1,
-          "name": "V bloku zarachotilo …",
-          "id": "chunk1",
+          "name": null,
+          "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Podlezl jsem závory ...",
+      "title": "Ostře sledované vlaky",
       "file": "ostre_sledovane_vlaky_008.html",
-      "words": 4102,
-      "chars": 24926,
-      "ideas": 105,
+      "words": 4098,
+      "chars": 24905,
+      "ideas": 104,
       "role": "chapter",
-      "order": 3,
+      "order": 5,
       "prev": "ostre_sledovane_vlaky_007.html",
       "next": "ostre_sledovane_vlaky_009.html",
       "toc": [
         {
           "index": 0,
           "level": 1,
-          "name": "Podlezl jsem závory …",
-          "id": "chunk1",
+          "name": null,
+          "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Ze zámku přišla zpráva ...",
+      "title": "Ostře sledované vlaky",
       "file": "ostre_sledovane_vlaky_009.html",
-      "words": 3847,
-      "chars": 22271,
-      "ideas": 87,
+      "words": 3842,
+      "chars": 22247,
+      "ideas": 86,
       "role": "chapter",
-      "order": 4,
+      "order": 6,
       "prev": "ostre_sledovane_vlaky_008.html",
       "next": "ostre_sledovane_vlaky_010.html",
       "toc": [
         {
           "index": 0,
           "level": 1,
-          "name": "Ze zámku přišla zpráva …",
-          "id": "chunk1",
+          "name": null,
+          "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Výpravčí Hubička ...",
+      "title": "Ostře sledované vlaky",
       "file": "ostre_sledovane_vlaky_010.html",
-      "words": 3374,
-      "chars": 19034,
-      "ideas": 38,
+      "words": 3371,
+      "chars": 19016,
+      "ideas": 37,
       "role": "chapter",
-      "order": 5,
+      "order": 7,
       "prev": "ostre_sledovane_vlaky_009.html",
+      "next": "ostre_sledovane_vlaky_012.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Ostře sledované vlaky",
+      "file": "ostre_sledovane_vlaky_012.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 8,
+      "prev": "ostre_sledovane_vlaky_010.html",
+      "next": "colophon.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Tiráž • Ostře sledované vlaky",
+      "file": "colophon.html",
+      "words": 137,
+      "chars": 912,
+      "ideas": 19,
+      "role": "colophon",
+      "order": null,
+      "prev": "ostre_sledovane_vlaky_012.html",
       "next": null,
       "toc": [
         {
           "index": 0,
           "level": 1,
-          "name": "Výpravčí Hubička …",
-          "id": "chunk1",
+          "name": "Tiráž",
+          "id": null,
           "children": []
         }
       ]
-    },
-    {
-      "title": "",
-      "file": "ostre_sledovane_vlaky_012.html",
-      "words": 0,
-      "chars": 0,
-      "ideas": 0,
-      "role": "other",
-      "order": null,
-      "next": "ostre_sledovane_vlaky_005.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": "",
-          "id": "chunk1",
-          "children": []
-        }
-      ]
-    },
-    {
-      "title": "",
-      "file": "resources.html",
-      "words": 0,
-      "chars": 0,
-      "ideas": 0,
-      "role": "other",
-      "order": null,
-      "next": "ostre_sledovane_vlaky_005.html",
-      "toc": []
     }
   ],
   "totals": {
     "all": {
-      "words": 18745,
-      "chars": 109362,
-      "ideas": 340
+      "words": 18727,
+      "chars": 109269,
+      "ideas": 338
     },
     "chapters": {
-      "words": 18603,
-      "chars": 108416,
-      "ideas": 318
+      "words": 18583,
+      "chars": 108311,
+      "ideas": 315
     }
   }
 }
