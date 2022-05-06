@@ -4,6 +4,14 @@ title: Tiráž
 
 ***
 
+Ostře sledované  
+vlaky
+
+Bohumil Hrabal
+
+
+***
+
 Znění tohoto textu vychází z díla [Ostře sledované vlaky](https://search.mlp.cz/cz/titul/ostre-sledovane-vlaky/138094/) tak, jak bylo vydáno nakladatelstvím Československý spisovatel v Praze v roce 1980. Pro potřeby vydání Městské knihovny v Praze byl text redakčně zpracován.
 
 §
@@ -25,8 +33,8 @@ Verze 1.0 z 23. 8. 2019.
 
 ***
 
-Bohumil Hrabal  
-Ostře sledované vlaky
+**Bohumil Hrabal  
+Ostře sledované vlaky**
 
 Obálka volné zdroje
 

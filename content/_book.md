@@ -1,6 +1,7 @@
 ---
 outputs: meta
 slug: book
+contentType: prose
 languageCode: cs
 meta:
   title: Ostře sledované vlaky
@@ -13,7 +14,6 @@ meta:
   edition: beletrie
 readingOrder:
   - ostre_sledovane_vlaky_002.html
-  - ostre_sledovane_vlaky_003.html
   - ostre_sledovane_vlaky_005.html
   - ostre_sledovane_vlaky_006.html
   - ostre_sledovane_vlaky_007.html
