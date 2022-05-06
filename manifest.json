@@ -1,16 +1,16 @@
 {
   "author": "Bohumil Hrabal",
   "edition": "beletrie",
-  "identifier": "hrabal-ostre-sledovane-vlaky-cd8391a",
+  "identifier": "hrabal-ostre-sledovane-vlaky-644409f",
   "languagecode": "cs",
   "modified": "2021-09-06T08:31:04.645Z",
   "publisher": "Městská knihovna v Praze",
   "publishershort": "mkp",
   "title": "Ostře sledované vlaky",
-  "revision": "cd8391a",
+  "revision": "644409f",
   "generatedAt": {
-    "date": "Thu Dec 02 2021 10:22:26 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1638440546843
+    "date": "Fri May 06 2022 10:09:27 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1651831767172
   },
   "documents": [
     {
@@ -22,26 +22,6 @@
       "role": "chapter",
       "order": 0,
       "prev": null,
-      "next": "ostre_sledovane_vlaky_003.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
-    },
-    {
-      "title": "Ostře sledované vlaky",
-      "file": "ostre_sledovane_vlaky_003.html",
-      "words": 5,
-      "chars": 34,
-      "ideas": 3,
-      "role": "chapter",
-      "order": 1,
-      "prev": "ostre_sledovane_vlaky_002.html",
       "next": "ostre_sledovane_vlaky_005.html",
       "toc": [
         {
@@ -60,8 +40,8 @@
       "chars": 11218,
       "ideas": 5,
       "role": "chapter",
-      "order": 2,
-      "prev": "ostre_sledovane_vlaky_003.html",
+      "order": 1,
+      "prev": "ostre_sledovane_vlaky_002.html",
       "next": "ostre_sledovane_vlaky_006.html",
       "toc": [
         {
@@ -80,7 +60,7 @@
       "chars": 15306,
       "ideas": 50,
       "role": "chapter",
-      "order": 3,
+      "order": 2,
       "prev": "ostre_sledovane_vlaky_005.html",
       "next": "ostre_sledovane_vlaky_007.html",
       "toc": [
@@ -100,7 +80,7 @@
       "chars": 15585,
       "ideas": 30,
       "role": "chapter",
-      "order": 4,
+      "order": 3,
       "prev": "ostre_sledovane_vlaky_006.html",
       "next": "ostre_sledovane_vlaky_008.html",
       "toc": [
@@ -120,7 +100,7 @@
       "chars": 24905,
       "ideas": 104,
       "role": "chapter",
-      "order": 5,
+      "order": 4,
       "prev": "ostre_sledovane_vlaky_007.html",
       "next": "ostre_sledovane_vlaky_009.html",
       "toc": [
@@ -140,7 +120,7 @@
       "chars": 22247,
       "ideas": 86,
       "role": "chapter",
-      "order": 6,
+      "order": 5,
       "prev": "ostre_sledovane_vlaky_008.html",
       "next": "ostre_sledovane_vlaky_010.html",
       "toc": [
@@ -160,7 +140,7 @@
       "chars": 19016,
       "ideas": 37,
       "role": "chapter",
-      "order": 7,
+      "order": 6,
       "prev": "ostre_sledovane_vlaky_009.html",
       "next": "ostre_sledovane_vlaky_012.html",
       "toc": [
@@ -180,7 +160,7 @@
       "chars": 0,
       "ideas": 0,
       "role": "chapter",
-      "order": 8,
+      "order": 7,
       "prev": "ostre_sledovane_vlaky_010.html",
       "next": "colophon.html",
       "toc": [
@@ -196,9 +176,9 @@
     {
       "title": "Tiráž • Ostře sledované vlaky",
       "file": "colophon.html",
-      "words": 137,
-      "chars": 912,
-      "ideas": 19,
+      "words": 142,
+      "chars": 946,
+      "ideas": 22,
       "role": "colophon",
       "order": null,
       "prev": "ostre_sledovane_vlaky_012.html",
@@ -221,9 +201,9 @@
       "ideas": 338
     },
     "chapters": {
-      "words": 18583,
-      "chars": 108311,
-      "ideas": 315
+      "words": 18578,
+      "chars": 108277,
+      "ideas": 312
     }
   }
 }
