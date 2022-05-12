@@ -13,7 +13,7 @@ meta:
   publisherShort: mkp
   edition: beletrie
 readingOrder:
-  - ostre_sledovane_vlaky_002.html
+  - promo.html
   - ostre_sledovane_vlaky_005.html
   - ostre_sledovane_vlaky_006.html
   - ostre_sledovane_vlaky_007.html
