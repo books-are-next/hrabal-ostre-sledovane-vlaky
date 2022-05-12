@@ -43,7 +43,7 @@
         "filename": "ostre_sledovane_vlaky_002.md",
         "xhtml": "ostre_sledovane_vlaky_002.xhtml",
         "id": 1,
-        "role": "chapter",
+        "role": "promo",
         "inToc": false,
         "listType": "plain",
         "children": []
@@ -286,6 +286,6 @@
       "user": "books-are-next",
       "repo": "hrabal-ostre-sledovane-vlaky"
     },
-    "generatedAt": 1651831707596
+    "generatedAt": 1652351293317
   }
 }

@@ -1,21 +1,34 @@
 {
-  "author": "Bohumil Hrabal",
-  "edition": "beletrie",
-  "identifier": "hrabal-ostre-sledovane-vlaky-644409f",
-  "languagecode": "cs",
-  "modified": "2021-09-06T08:31:04.645Z",
-  "publisher": "Městská knihovna v Praze",
-  "publishershort": "mkp",
+  "preview": {
+    "isPreview": false
+  },
   "title": "Ostře sledované vlaky",
-  "revision": "644409f",
+  "author": "Bohumil Hrabal",
+  "publisher": "Městská knihovna v Praze",
+  "edition": "beletrie",
+  "languageCode": "cs",
+  "root": "main",
+  "identifier": "hrabal-ostre-sledovane-vlaky-f6c000b",
+  "revision": "f6c000b",
+  "readingOrder": [
+    "promo.html",
+    "ostre_sledovane_vlaky_005.html",
+    "ostre_sledovane_vlaky_006.html",
+    "ostre_sledovane_vlaky_007.html",
+    "ostre_sledovane_vlaky_008.html",
+    "ostre_sledovane_vlaky_009.html",
+    "ostre_sledovane_vlaky_010.html",
+    "ostre_sledovane_vlaky_012.html",
+    "colophon.html"
+  ],
   "generatedAt": {
-    "date": "Fri May 06 2022 10:09:27 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1651831767172
+    "date": "Thu May 12 2022 10:35:53 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1652351753403
   },
   "documents": [
     {
-      "title": "Ostře sledované vlaky",
-      "file": "ostre_sledovane_vlaky_002.html",
+      "title": "Městská knihovna v Praze",
+      "file": "promo.html",
       "words": 0,
       "chars": 0,
       "ideas": 0,
@@ -23,15 +36,7 @@
       "order": 0,
       "prev": null,
       "next": "ostre_sledovane_vlaky_005.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
+      "toc": []
     },
     {
       "title": "Ostře sledované vlaky",
@@ -41,7 +46,7 @@
       "ideas": 5,
       "role": "chapter",
       "order": 1,
-      "prev": "ostre_sledovane_vlaky_002.html",
+      "prev": "promo.html",
       "next": "ostre_sledovane_vlaky_006.html",
       "toc": [
         {
@@ -174,11 +179,11 @@
       ]
     },
     {
-      "title": "Tiráž • Ostře sledované vlaky",
+      "title": "Tiráž",
       "file": "colophon.html",
-      "words": 142,
-      "chars": 946,
-      "ideas": 22,
+      "words": 123,
+      "chars": 802,
+      "ideas": 16,
       "role": "colophon",
       "order": null,
       "prev": "ostre_sledovane_vlaky_012.html",
@@ -196,9 +201,9 @@
   ],
   "totals": {
     "all": {
-      "words": 18727,
-      "chars": 109269,
-      "ideas": 338
+      "words": 18708,
+      "chars": 109125,
+      "ideas": 332
     },
     "chapters": {
       "words": 18578,
