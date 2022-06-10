@@ -2,6 +2,8 @@
 contentType: prose
 ---
 
+<section>
+
 Výpravčí Hubička rozsvítil cloněnou lampu na telegrafním stole, rozevřel telegrafní zápisník těsně u hrany stolu a pak mi dal znamení, že mi chce ukázat něco důležitého ve zprávách, ale já jsem hned věděl, že to bude něco ale docela jinačího. Výpravčí byl ustaraný, a když ukazoval tužkou do zpráv, špička se mu chvěla a čárala po papíře jako kardiograf. Opatrně otevřel šuplík a já jsem se musel dívat na poslední řádek, ale šilhal jsem do šuplíku. Kužel světla stolní lampy jediný svítil v dopravní kanceláři a na dně té zásuvky se blyštěl revolver a potom takový předmět podobající se baterce, která místo skla měla něco jako hodinky, které tiše tikaly.
 
 „Miloši,“ řekl výpravčí šeptem a dál ukazoval a podtrhával zprávu v zápisníku, „Miloši, nejlepší bude stát na perónu a hodit to na prostřední vagón. Hodíme tomu vlaku na stůj a v poslední chvíli mu dáme na zelenou… zpomalíme si ho.“
@@ -75,3 +77,5 @@ A já mu nasadil hlaveň pušky k oku a stiskl spoušť, tak divně jsem při
 A potom se ozvala detonace. A já, který jsem se ještě před chvílí těšil na ten pohled, ležel jsem vedle německého vojáka dál, natáhl jsem ruku a otevřel jeho tuhnoucí dlaň a dal jsem mu do ní ten zelený čtyřlístek, který přináší štěstí, zatímco z krajiny vyrůstal do nebe hřibovitý oblak, který neustále rostl o vyšší patra a vyšší kouřová mračna, slyšel jsem, jak tlak vzduchu proběhl krajinou a syčel a hvízdal o holé větve stromů a keřů, jak zatřásl v semaforu převodovými řetězy a opřel se o rameno a zatřásl jím, ale já jsem se kuckal a chrčela ze mne krev. Do poslední chvíle, než jsem začal ztrácet z dohledu sebe sama, držel jsem se s tím mrtvým za ruku, a pro jeho neslyšící uši jsem opakoval slova vlakvedoucího té rakety, která přivezla ty zbědované Němce od Drážďan:
 
 „Měli jste sedět doma, na prdeli…“
+
+</section>
