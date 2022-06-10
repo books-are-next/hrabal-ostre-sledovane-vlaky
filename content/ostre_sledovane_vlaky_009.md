@@ -2,15 +2,7 @@
 contentType: prose
 ---
 
-  
-
-  
-
-  
-
 Ze zámku přišla zpráva, že pan přednosta je pozván k hraběti Kinskému na večeři, že v sedm hodin pro něho přijede štolba. A já jsem stáhl zatemnění a rozsvítil světla v dopravní kanceláři. A v kanceláři pana přednosty, i když tam byla elektrika, rozsvítil jsem petrolejovou lampu s kulatým knotem, lampu se zeleným stínítkem. A vycházel jsem s výpravčím Hubičkou k vlakům, projíždějícím naší stanicí, dával jsem znamení zelenou lucernou. Pan přednosta si nesl do kanceláře ten svůj baronský mundúr, šedivé kalhoty a mysliveckou kamizolu a švarcemberský klobouček s tetřevím peřím. Nechal otevřené dveře do dopravní kanceláře a strojil se a byl rád, že je viděn.
-
-  
 
 A polní cestou od zámku přijížděl štolba na bílém koni a druhého bělouše měl vedle sebe. Na nebi se třepotaly hvězdy a noc vyzařovala. Pod botkama začal vrzat a chrupat zmrzlý sníh. Zelená lampa tiše syčela v kanceláři pana přednosty, který se na sebe upřeně díval do zrcadla. Už byl v gala, i jelenicové rukavičky a švarcemberský klobouček. A ta lampa házela na strop bílý kroužek, kolem kterého se rozptylovaly větší kruhy, jež se podobaly hrudi kostlivce. Když jsem býval o prázdninách u babičky, svítila na stole taky taková lampa a já jsem ležel rád večer v posteli a díval se na strop, na ty stíny kolem bílého kroužku, který tam vrhala ta petrolejka, a ať jsem se díval, jak jsem chtěl, pořád jsem viděl na stropě takového kostlivce, i když jsem si přikryl oči peřinou, pořád jsem viděl ten strop a na něm kostlivce. Jednou jsem se zase díval na strop a babička přinesla v zástěře polínka a vysypala je s rachotem ke kamnům. Vykřikl jsem: Upadly hnáty kostlivci!
 
