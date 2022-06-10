@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "hrabal-ostre-sledovane-vlaky-4b8cc88",
-  "revision": "4b8cc88",
+  "identifier": "hrabal-ostre-sledovane-vlaky-19a02ce",
+  "revision": "19a02ce",
   "readingOrder": [
     "promo.html",
     "ostre_sledovane_vlaky_005.html",
@@ -22,8 +22,8 @@
     "colophon.html"
   ],
   "generatedAt": {
-    "date": "Fri Jun 10 2022 14:17:06 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1654870626012
+    "date": "Fri Jun 10 2022 17:50:25 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1654883425909
   },
   "documents": [
     {
@@ -161,9 +161,9 @@
     {
       "title": "Ostře sledované vlaky",
       "file": "ostre_sledovane_vlaky_012.html",
-      "words": 0,
+      "words": 1,
       "chars": 0,
-      "ideas": 0,
+      "ideas": 1,
       "role": "chapter",
       "order": 7,
       "prev": "ostre_sledovane_vlaky_010.html",
@@ -181,9 +181,9 @@
     {
       "title": "Tiráž",
       "file": "colophon.html",
-      "words": 123,
-      "chars": 802,
-      "ideas": 16,
+      "words": 88,
+      "chars": 608,
+      "ideas": 7,
       "role": "colophon",
       "order": null,
       "prev": "ostre_sledovane_vlaky_012.html",
@@ -201,14 +201,14 @@
   ],
   "totals": {
     "all": {
-      "words": 18708,
-      "chars": 109125,
-      "ideas": 332
+      "words": 18674,
+      "chars": 108931,
+      "ideas": 324
     },
     "chapters": {
-      "words": 18578,
+      "words": 18579,
       "chars": 108277,
-      "ideas": 312
+      "ideas": 313
     }
   }
 }
