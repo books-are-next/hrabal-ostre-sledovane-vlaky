@@ -2,15 +2,7 @@
 contentType: prose
 ---
 
-  
-
-  
-
-  
-
 V bloku zarachotilo a červené kolečko hrkalo a měnilo se v bílé a já jsem vytáhl z bloku klíč a vyběhl na perón, do přístěnku, lokomotiva pískala u vjezdu a pan přednosta sestupoval po schodech, jako by se nic nestalo, tak se nějak tím křikem do světlíku očistil, jako by to byla zeď nářků. Hubička o něm vypravoval, že zrovna tak křičívá i na svou manželku, která – ač dcera řezníka z Volar – si to nechává líbit, ale čtyřikrát do roka udělá vzpouru, a když pan přednosta nejvíc na ni křičí a razí pro ni, co to je slušná ženská, paní přednostová po něm hodí to, co má po ruce. Jednou před Vánocemi, když na ni křičel, zatáhla si pana přednostu do koupelny a dala mu facku, až se zhroutil do vany k vánočnímu kaprovi.
-
-  
 
 Pan přednosta vešel do kanceláře a jediným pohledem se přesvědčil, že s dopravou není všecko v pořádku.
 

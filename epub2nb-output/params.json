@@ -20,8 +20,8 @@
       "hrBefore": "",
       "hrAfter": "",
       "br": "",
-      "brBefore": "",
-      "brAfter": "MLP-text-bez1radku\nMLP-text-bez1radku--0-12\nMLP-text-bez1radku--12-0",
+      "brBefore": ".+12.0\n.+12.12\n.+12.0.\n.+12.12.\ne.bookversebezpredsazeni.*pred.*\ne.bookodsazeniodstavce.*pred.*",
+      "brAfter": ".+0.12\n.+12.12\n.+0.12.\n.+12.12.\ne.bookversebezpredsazeni.*za.*\ne.bookodsazeniodstavce.*za.*",
       "blockquote": "",
       "figure": "MLP-obrazky",
       "em": "",
@@ -286,6 +286,6 @@
       "user": "books-are-next",
       "repo": "hrabal-ostre-sledovane-vlaky"
     },
-    "generatedAt": 1652351293317
+    "generatedAt": 1654870360439
   }
 }

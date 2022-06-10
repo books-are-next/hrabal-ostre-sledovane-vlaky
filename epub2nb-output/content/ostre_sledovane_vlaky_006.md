@@ -2,15 +2,7 @@
 contentType: prose
 ---
 
-  
-
-  
-
-  
-
 V dopravní kanceláři bylo všecko tak, jako to bylo, než jsem to opustil. Blok uzavírající závěry jízdních cest se pořád podobal obrovskému aristonu nebo forbesové skříni, telegrafní stůl stál pod oknem, z kterého byla vidět pět kilometrů dlouhá polní cesta vroubená starými jabloněmi, cesta, na jejímž konci se třpytil zámek knížete Kinského, zámek, který dneska ráno, když vyšlo slunce, stál až do prvního patra v mlze, takže vypadal, jako by visel na zlatém řetězu. A na tom stole byly tři telegrafní přístroje, které před půlstoletím vyrobila firma Siemens Halske, a tři telegrafní zápisníky. A dva traťové telefony a tři telefony staniční pořád se propojovaly a dopravní kanceláří se pořád ozývalo něžné vrkání a cinkání a štěbetání telegrafů a telefonů, jak v krámku obchodníka se zpěvavým ptactvem. U okénka do čekárny pořád byla zelená záclonka stažená mosaznými kroužky a hned vedle železná skříň a stroj na datumování jízdenek. Výpravčí Hubička mě přivítal a hned řekl, že budeme sloužit spolu, že po třech měsících marodění se musím znovu zaškolit. A potom se mne zeptal pan výpravčí, kolik je hodin, a odhrnul rukáv z mého zápěstí, a nedíval se na hodinky, ale rovnou na jizvu po vyhojené ráně.
-
-  
 
 A já jsem se začervenal a hned jsem dělal, jako že hledám svou červenou čepici. Byla ve skříňce docela zaprášená, na dýnku byly tlapičky myších paciček. V jitřním slunci jsem kartáčoval služební čepici, slyšel jsem, jak holubi pana přednosty vrkají v holubníku. Za nádražím bylo vidět všechny překážky na dostihové dráze, celá ta miniaturní dráha z Velké pardubické, protože kníže Kinský pěstoval polokrevné závodní koně, se kterými vyhrál nejen Velkou pardubickou, ale i Velkou liverpoolskou, skoro milión liber šterlinků, bylo to tenkrát tolik peněz, že kníže začal stavět za naší maličkou stanicí obrovský biograf a divadlo a koncertní sál pro naši vesnici, ale nedostavěl to, tak se z toho udělal magacín na obilí, nejkrásnější obilní skladiště na světě, do kterého se vcházelo římskými a řeckými sloupy. A tomu skladišti na obilí se říkalo po anglicku: liverpůl…
 
