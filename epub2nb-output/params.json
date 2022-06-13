@@ -8,7 +8,8 @@
       "modified": "2021-09-06T08:31:04.645Z",
       "languageCode": "cs",
       "publisherShort": "mkp",
-      "edition": "beletrie"
+      "edition": "beletrie",
+      "isbn": "978-80-274-2459-7"
     },
     "elements": {
       "title": "",
@@ -31,118 +32,124 @@
     },
     "structure": [
       {
-        "filename": "ostre_sledovane_vlaky_001.md",
-        "xhtml": "ostre_sledovane_vlaky_001.xhtml",
-        "id": 0,
-        "role": "cover",
-        "inToc": true,
-        "listType": "plain",
-        "children": []
-      },
-      {
-        "filename": "ostre_sledovane_vlaky_002.md",
-        "xhtml": "ostre_sledovane_vlaky_002.xhtml",
-        "id": 1,
-        "role": "promo",
-        "inToc": false,
-        "listType": "plain",
-        "children": []
-      },
-      {
-        "filename": "ostre_sledovane_vlaky_003.md",
-        "xhtml": "ostre_sledovane_vlaky_003.xhtml",
-        "id": 2,
-        "role": "colophon",
-        "inToc": true,
-        "listType": "plain",
-        "children": []
-      },
-      {
-        "filename": "ostre_sledovane_vlaky_004.md",
-        "xhtml": "ostre_sledovane_vlaky_004.xhtml",
-        "id": 3,
-        "role": "colophon",
-        "inToc": true,
-        "listType": "plain",
-        "children": []
-      },
-      {
-        "filename": "ostre_sledovane_vlaky_005.md",
-        "xhtml": "ostre_sledovane_vlaky_005.xhtml",
-        "id": 4,
-        "role": "chapter",
-        "inToc": true,
-        "title": "Tenhleten rok, rok pětačtyřicet ...",
-        "listType": "plain",
-        "children": []
-      },
-      {
-        "filename": "ostre_sledovane_vlaky_006.md",
-        "xhtml": "ostre_sledovane_vlaky_006.xhtml",
-        "id": 5,
-        "role": "chapter",
-        "inToc": true,
-        "title": "V dopravní kanceláři ...",
-        "listType": "plain",
-        "children": []
-      },
-      {
-        "filename": "ostre_sledovane_vlaky_007.md",
-        "xhtml": "ostre_sledovane_vlaky_007.xhtml",
-        "id": 6,
-        "role": "chapter",
-        "inToc": true,
-        "title": "V bloku zarachotilo ...",
-        "listType": "plain",
-        "children": []
-      },
-      {
-        "filename": "ostre_sledovane_vlaky_008.md",
-        "xhtml": "ostre_sledovane_vlaky_008.xhtml",
-        "id": 7,
-        "role": "chapter",
-        "inToc": true,
-        "title": "Podlezl jsem závory ...",
-        "listType": "plain",
-        "children": []
-      },
-      {
-        "filename": "ostre_sledovane_vlaky_009.md",
-        "xhtml": "ostre_sledovane_vlaky_009.xhtml",
-        "id": 8,
-        "role": "chapter",
-        "inToc": true,
-        "title": "Ze zámku přišla zpráva ...",
-        "listType": "plain",
-        "children": []
-      },
-      {
-        "filename": "ostre_sledovane_vlaky_010.md",
-        "xhtml": "ostre_sledovane_vlaky_010.xhtml",
-        "id": 9,
-        "role": "chapter",
-        "inToc": true,
-        "title": "Výpravčí Hubička ...",
-        "listType": "plain",
-        "children": []
-      },
-      {
-        "filename": "ostre_sledovane_vlaky_011.md",
-        "xhtml": "ostre_sledovane_vlaky_011.xhtml",
-        "id": 10,
-        "role": "colophon",
-        "inToc": true,
-        "listType": "plain",
-        "children": []
-      },
-      {
-        "filename": "ostre_sledovane_vlaky_012.md",
-        "xhtml": "ostre_sledovane_vlaky_012.xhtml",
-        "id": 11,
-        "role": "chapter",
-        "inToc": true,
-        "listType": "plain",
-        "children": []
+        "isSection": true,
+        "id": "section-1",
+        "children": [
+          {
+            "filename": "ostre_sledovane_vlaky_001.md",
+            "xhtml": "ostre_sledovane_vlaky_001.xhtml",
+            "id": 0,
+            "role": "cover",
+            "inToc": true,
+            "listType": "plain",
+            "children": []
+          },
+          {
+            "filename": "ostre_sledovane_vlaky_002.md",
+            "xhtml": "ostre_sledovane_vlaky_002.xhtml",
+            "id": 1,
+            "role": "promo",
+            "inToc": false,
+            "listType": "plain",
+            "children": []
+          },
+          {
+            "filename": "ostre_sledovane_vlaky_003.md",
+            "xhtml": "ostre_sledovane_vlaky_003.xhtml",
+            "id": 2,
+            "role": "colophon",
+            "inToc": true,
+            "listType": "plain",
+            "children": []
+          },
+          {
+            "filename": "ostre_sledovane_vlaky_004.md",
+            "xhtml": "ostre_sledovane_vlaky_004.xhtml",
+            "id": 3,
+            "role": "colophon",
+            "inToc": true,
+            "listType": "plain",
+            "children": []
+          },
+          {
+            "filename": "ostre_sledovane_vlaky_005.md",
+            "xhtml": "ostre_sledovane_vlaky_005.xhtml",
+            "id": 4,
+            "role": "chapter",
+            "inToc": true,
+            "title": "Tenhleten rok, rok pětačtyřicet ...",
+            "listType": "plain",
+            "children": []
+          },
+          {
+            "filename": "ostre_sledovane_vlaky_006.md",
+            "xhtml": "ostre_sledovane_vlaky_006.xhtml",
+            "id": 5,
+            "role": "chapter",
+            "inToc": true,
+            "title": "V dopravní kanceláři ...",
+            "listType": "plain",
+            "children": []
+          },
+          {
+            "filename": "ostre_sledovane_vlaky_007.md",
+            "xhtml": "ostre_sledovane_vlaky_007.xhtml",
+            "id": 6,
+            "role": "chapter",
+            "inToc": true,
+            "title": "V bloku zarachotilo ...",
+            "listType": "plain",
+            "children": []
+          },
+          {
+            "filename": "ostre_sledovane_vlaky_008.md",
+            "xhtml": "ostre_sledovane_vlaky_008.xhtml",
+            "id": 7,
+            "role": "chapter",
+            "inToc": true,
+            "title": "Podlezl jsem závory ...",
+            "listType": "plain",
+            "children": []
+          },
+          {
+            "filename": "ostre_sledovane_vlaky_009.md",
+            "xhtml": "ostre_sledovane_vlaky_009.xhtml",
+            "id": 8,
+            "role": "chapter",
+            "inToc": true,
+            "title": "Ze zámku přišla zpráva ...",
+            "listType": "plain",
+            "children": []
+          },
+          {
+            "filename": "ostre_sledovane_vlaky_010.md",
+            "xhtml": "ostre_sledovane_vlaky_010.xhtml",
+            "id": 9,
+            "role": "chapter",
+            "inToc": true,
+            "title": "Výpravčí Hubička ...",
+            "listType": "plain",
+            "children": []
+          },
+          {
+            "filename": "ostre_sledovane_vlaky_011.md",
+            "xhtml": "ostre_sledovane_vlaky_011.xhtml",
+            "id": 10,
+            "role": "colophon",
+            "inToc": true,
+            "listType": "plain",
+            "children": []
+          },
+          {
+            "filename": "ostre_sledovane_vlaky_012.md",
+            "xhtml": "ostre_sledovane_vlaky_012.xhtml",
+            "id": 11,
+            "role": "chapter",
+            "inToc": true,
+            "listType": "plain",
+            "children": []
+          }
+        ]
       }
     ]
   },
@@ -286,6 +293,6 @@
       "user": "books-are-next",
       "repo": "hrabal-ostre-sledovane-vlaky"
     },
-    "generatedAt": 1654948398920
+    "generatedAt": 1655155767585
   }
 }

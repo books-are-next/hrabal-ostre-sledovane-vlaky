@@ -12,6 +12,7 @@ meta:
   languageCode: cs
   publisherShort: mkp
   edition: beletrie
+  isbn: 978-80-274-2459-7
 readingOrder:
   - promo.html
   - ostre_sledovane_vlaky_005.html
@@ -23,18 +24,21 @@ readingOrder:
   - ostre_sledovane_vlaky_012.html
   - colophon.html
 tocBase:
-  - link: ostre_sledovane_vlaky_005.html
-    title: Tenhleten rok, rok pětačtyřicet ...
-  - link: ostre_sledovane_vlaky_006.html
-    title: V dopravní kanceláři ...
-  - link: ostre_sledovane_vlaky_007.html
-    title: V bloku zarachotilo ...
-  - link: ostre_sledovane_vlaky_008.html
-    title: Podlezl jsem závory ...
-  - link: ostre_sledovane_vlaky_009.html
-    title: Ze zámku přišla zpráva ...
-  - link: ostre_sledovane_vlaky_010.html
-    title: Výpravčí Hubička ...
+  - id: section-1
+    children:
+      - link: ostre_sledovane_vlaky_005.html
+        title: Tenhleten rok, rok pětačtyřicet ...
+      - link: ostre_sledovane_vlaky_006.html
+        title: V dopravní kanceláři ...
+      - link: ostre_sledovane_vlaky_007.html
+        title: V bloku zarachotilo ...
+      - link: ostre_sledovane_vlaky_008.html
+        title: Podlezl jsem závory ...
+      - link: ostre_sledovane_vlaky_009.html
+        title: Ze zámku přišla zpráva ...
+      - link: ostre_sledovane_vlaky_010.html
+        title: Výpravčí Hubička ...
+    isSection: true
 static:
   - style
   - scripts
