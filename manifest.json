@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "hrabal-ostre-sledovane-vlaky-7a8bf35",
-  "revision": "7a8bf35",
+  "identifier": "hrabal-ostre-sledovane-vlaky-92c3c37",
+  "revision": "92c3c37",
   "readingOrder": [
     "promo.html",
     "ostre_sledovane_vlaky_005.html",
@@ -22,8 +22,8 @@
     "colophon.html"
   ],
   "generatedAt": {
-    "date": "Mon Jun 13 2022 22:00:50 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1655157650476
+    "date": "Wed Jun 15 2022 05:50:56 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1655272256612
   },
   "documents": [
     {
@@ -181,9 +181,9 @@
     {
       "title": "Tiráž",
       "file": "colophon.html",
-      "words": 123,
-      "chars": 802,
-      "ideas": 16,
+      "words": 141,
+      "chars": 946,
+      "ideas": 17,
       "role": "colophon",
       "order": null,
       "prev": "ostre_sledovane_vlaky_012.html",
@@ -201,9 +201,9 @@
   ],
   "totals": {
     "all": {
-      "words": 18709,
-      "chars": 109125,
-      "ideas": 333
+      "words": 18727,
+      "chars": 109269,
+      "ideas": 334
     },
     "chapters": {
       "words": 18579,
