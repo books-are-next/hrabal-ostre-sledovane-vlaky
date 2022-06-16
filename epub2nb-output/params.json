@@ -9,7 +9,8 @@
       "languageCode": "cs",
       "publisherShort": "mkp",
       "edition": "beletrie",
-      "isbn": "978-80-274-2459-7"
+      "isbn": "978-80-274-2459-7",
+      "contentType": "prose"
     },
     "elements": {
       "title": "",
@@ -293,6 +294,6 @@
       "user": "books-are-next",
       "repo": "hrabal-ostre-sledovane-vlaky"
     },
-    "generatedAt": 1655271332455
+    "generatedAt": 1655364185602
   }
 }

@@ -13,6 +13,7 @@ meta:
   publisherShort: mkp
   edition: beletrie
   isbn: 978-80-274-2459-7
+  contentType: prose
 readingOrder:
   - promo.html
   - ostre_sledovane_vlaky_005.html
