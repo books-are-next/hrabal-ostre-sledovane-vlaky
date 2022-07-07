@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "hrabal-ostre-sledovane-vlaky-222dcfa",
-  "revision": "222dcfa",
+  "identifier": "hrabal-ostre-sledovane-vlaky-70d283f",
+  "revision": "70d283f",
   "readingOrder": [
     "promo.html",
     "ostre_sledovane_vlaky_005.html",
@@ -19,11 +19,11 @@
     "ostre_sledovane_vlaky_009.html",
     "ostre_sledovane_vlaky_010.html",
     "ostre_sledovane_vlaky_012.html",
-    "colophon.html"
+    "about.html"
   ],
   "generatedAt": {
-    "date": "Thu Jun 23 2022 10:06:06 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1655978766683
+    "date": "Thu Jul 07 2022 08:27:37 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1657182457522
   },
   "documents": [
     {
@@ -167,7 +167,7 @@
       "role": "chapter",
       "order": 7,
       "prev": "ostre_sledovane_vlaky_010.html",
-      "next": "colophon.html",
+      "next": "about.html",
       "toc": [
         {
           "index": 0,
@@ -180,11 +180,11 @@
     },
     {
       "title": "Tiráž",
-      "file": "colophon.html",
+      "file": "about.html",
       "words": 141,
-      "chars": 946,
+      "chars": 945,
       "ideas": 17,
-      "role": "colophon",
+      "role": "about",
       "order": null,
       "prev": "ostre_sledovane_vlaky_012.html",
       "next": null,
@@ -202,7 +202,7 @@
   "totals": {
     "all": {
       "words": 18727,
-      "chars": 109269,
+      "chars": 109268,
       "ideas": 334
     },
     "chapters": {
