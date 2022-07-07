@@ -54,7 +54,7 @@
         "filename": "ostre_sledovane_vlaky_003.md",
         "xhtml": "ostre_sledovane_vlaky_003.xhtml",
         "id": 2,
-        "role": "colophon",
+        "role": "about",
         "inToc": true,
         "listType": "plain",
         "children": []
@@ -63,7 +63,7 @@
         "filename": "ostre_sledovane_vlaky_004.md",
         "xhtml": "ostre_sledovane_vlaky_004.xhtml",
         "id": 3,
-        "role": "colophon",
+        "role": "about",
         "inToc": true,
         "listType": "plain",
         "children": []
@@ -132,7 +132,7 @@
         "filename": "ostre_sledovane_vlaky_011.md",
         "xhtml": "ostre_sledovane_vlaky_011.xhtml",
         "id": 10,
-        "role": "colophon",
+        "role": "about",
         "inToc": true,
         "listType": "plain",
         "children": []
