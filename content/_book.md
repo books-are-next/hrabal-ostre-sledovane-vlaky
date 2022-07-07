@@ -23,7 +23,7 @@ readingOrder:
   - ostre_sledovane_vlaky_009.html
   - ostre_sledovane_vlaky_010.html
   - ostre_sledovane_vlaky_012.html
-  - colophon.html
+  - about.html
 tocBase:
   - id: section-1
     children:
