@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "hrabal-ostre-sledovane-vlaky-37fb55a",
-  "revision": "37fb55a",
+  "identifier": "hrabal-ostre-sledovane-vlaky-2bbc8f7",
+  "revision": "2bbc8f7",
   "readingOrder": [
     "promo.html",
     "ostre_sledovane_vlaky_005.html",
@@ -22,8 +22,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Sat Oct 01 2022 15:55:24 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1664639724647
+    "date": "Tue Oct 04 2022 16:42:53 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1664901773088
   },
   "documents": [
     {
